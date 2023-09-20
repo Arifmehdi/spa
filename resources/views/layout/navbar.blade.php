@@ -38,7 +38,7 @@
                                    <li class="active">
                                        <a href="javascript:;">Home<i class="fa fa-chevron-down"></i></a>
                                        <ul class="sub-menu">
-                                           <li><a href="index.html">Home 1123</a></li>
+                                           <li><a href="index.html">Home coming</a></li>
                                            <li><a href="index-2.html">Home 2</a></li>
                                            <li><a href="index-3.html">Home 3</a></li>
                                            <li><a href="index-4.html">Home 4</a></li>
